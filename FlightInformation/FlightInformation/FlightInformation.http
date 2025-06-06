@@ -1,0 +1,6 @@
+@FlightInformation_HostAddress = http://localhost:5261
+
+GET {{FlightInformation_HostAddress}}/flights/
+Accept: application/json
+
+###
